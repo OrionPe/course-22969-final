@@ -7,7 +7,7 @@ This repository contains the final project for Course 22969.
 Implementation of GPT-2 Medium (355M) from scratch in PyTorch.  
 The trained model weights are saved locally after running Task 2.
 
-## Task 3 – Chat Interface
+## Task 3 – Extension
 
 Builds on the fine-tuned model from Task 2 and adds an interactive instruction-following chat interface.
 
