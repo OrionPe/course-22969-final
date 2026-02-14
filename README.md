@@ -9,7 +9,7 @@ The trained model weights are saved locally after running Task 2.
 
 ## Task 3 – Extension
 
-Builds on the fine-tuned model from Task 2 and adds an interactive instruction-following chat interface.
+Extends the fine-tuned model into a multi-agent debate arena, forcing the model to simulate a structured argument between opposing personas.
 
 **Important:**  
 Model weights are not included due to GitHub size limitations.  
